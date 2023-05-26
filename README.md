@@ -75,7 +75,7 @@ accuracy
 from sklearn.metrics import confusion_matrix
 confusion = confusion_matrix(y_test,y_pred)
 print("Confusion array")
-```
+
 confusion
 
 from sklearn.metrics import classification_report
